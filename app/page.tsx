@@ -108,7 +108,7 @@ export default function Portfolio() {
               </Link>
             </div>
             <div className="flex gap-4 pt-4">
-              <Link href="https://github.com/AvneetNijjer" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/Nijjea1" target="_blank" rel="noopener noreferrer">
                 <Button
                   variant="ghost"
                   size="icon"
