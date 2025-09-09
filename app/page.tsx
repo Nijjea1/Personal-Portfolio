@@ -179,7 +179,7 @@ export default function Portfolio() {
                 <img
                   src="/Linkedinpic.jpeg?height=600&width=600 "
                   alt="Avneet Singh Nijjer"
-                  className="w-full h-full object-contain object-center bg-black"
+                  className="w-full h-full object-cover object-center"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
                 <div className="absolute bottom-0 left-0 w-full p-6">
