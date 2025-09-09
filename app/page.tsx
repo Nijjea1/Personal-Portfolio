@@ -227,8 +227,8 @@ export default function Portfolio() {
                 </div>
 
                 <div className="mt-8">
-                  <Link href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-                    <Button className="bg-zinc-800 hover:bg-zinc-700 text-white">Download Resume</Button>
+                  <Link href="/AvneetSinghNijjerResume.pdf" target="_blank" rel="noopener noreferrer">
+                    <Button className="bg-zinc-800 hover:bg-zinc-700 text-white">View Resume</Button>
                   </Link>
                 </div>
               </GlassmorphicCard>
