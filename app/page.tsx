@@ -85,9 +85,9 @@ export default function Portfolio() {
               </span>
             </h1>
             <p className="text-xl text-zinc-400 max-w-[600px]">
-              - Student @ McMaster University (B.Eng - Computer Engineering, Co-Op, Class of 2028). <br />
+              - Student @ McMaster University (B.Eng - Computer Engineering, Co-Op, Class of 2029). <br />
               - Self-taught developer focused on web/mobile development, embedded systems, and Artificial Intelligence. <br />
-              - Main Skills: Java · Python · React · Next.js · Arduino/Raspberry Pi.
+              - Main Skills: C/C++ · Java · Python · React · Next.js · Arduino/Raspberry Pi.
             </p>
             <div className="flex flex-wrap gap-4 pt-4">
               <Link href="#projects">
@@ -128,7 +128,7 @@ export default function Portfolio() {
                   <span className="sr-only">LinkedIn</span>
                 </Button>
               </Link>
-              <Link href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+              <Link href="https://x.com/avneetnijjer?s=21&t=yoB1PovkwXg9GbxB5iX0Hw" target="_blank" rel="noopener noreferrer">
                 <Button
                   variant="ghost"
                   size="icon"
